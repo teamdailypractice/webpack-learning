@@ -1,0 +1,27 @@
+{
+  "name": "webpack-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamdailypractice/webpack-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teamdailypractice/webpack-learning/issues"
+  },
+  "homepage": "https://github.com/teamdailypractice/webpack-learning#readme",
+  "dependencies": {
+    "webpack": "^5.72.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.2"
+  }
+}
