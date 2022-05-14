@@ -1,2 +1,3 @@
-//webpack entry file
+// main.js
+
 console.log("webpack entry file");

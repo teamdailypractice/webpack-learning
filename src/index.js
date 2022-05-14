@@ -1,2 +1,3 @@
-//Simple file to test webpack
-console.log("webpack initial build");
+import component from "./component";
+
+document.body.appendChild(component());
