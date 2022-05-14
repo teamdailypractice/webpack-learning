@@ -19,10 +19,12 @@
   * Directly in code using import
   * webpack config - rules
   * CLI --module-bind
+* npm install file-loader --save-dev  
 
 ## Plugins
 
 * <https://webpack.js.org/plugins/html-webpack-plugin/>
+* npm add mini-html-webpack-plugin --develop
 
 ## Images
 
